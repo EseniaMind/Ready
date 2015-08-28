@@ -1,0 +1,1 @@
+An object can be either a commit, a tree, a blob, or a tag. They’re compressed with zlib, but you can extract and examine them easily.
